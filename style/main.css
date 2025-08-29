@@ -97,7 +97,7 @@ body {
 
 .six {
   position: relative;
-  top: 10vh;
+  top: 5vh;
   z-index: 1;
 }
 
@@ -109,7 +109,7 @@ body {
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 50%;
   position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
@@ -228,7 +228,7 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 40%;
+    left: 50%;
   }
 }
 
@@ -240,13 +240,13 @@ body {
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 32%;
+    left: 50%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 50%;
   }
 }
 
@@ -269,7 +269,7 @@ body {
   }
 
   .idea-6 span {
-    font-size: 10rem;
+    font-size: 5rem;
   }
 
   .six .hat {
@@ -278,11 +278,11 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.2em;
+    font-size: 1.5em;
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 0.5rem;
   }
 
   .nine p {
