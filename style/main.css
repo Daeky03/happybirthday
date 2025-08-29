@@ -204,13 +204,13 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 1.5em;
   margin: 0;
   text-transform: uppercase;
 }
 
 .wish h5 {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
@@ -234,7 +234,7 @@ body {
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 37%;
+    left: 50%;
   }
 }
 
@@ -282,7 +282,7 @@ body {
   }
 
   .wish h5 {
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 
   .nine p {
